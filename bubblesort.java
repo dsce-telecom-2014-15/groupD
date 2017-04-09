@@ -8,6 +8,7 @@ import java.util.Arrays;
 public class bubblesort {
 
 	public static void main(String[] args) {
+		// Code should be well formatted.
 		// TODO Auto-generated method stub
 int[] myIntArray = {41,32,23,44,56,46,77,68,79,15};
 int temp;

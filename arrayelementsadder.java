@@ -7,7 +7,10 @@ package myproject;
 public class arrayelementsadder {
 
 	public static void main(String[] args) {
+		// Unnecessary comments should be removed.
+		
 		// TODO elemtnts of array a to be added
+		//Commit the suggested changes
 int[]a={0,1,2,3,4};
 int[]b={5,6,7,8,9};
 int sum=0,i=0;

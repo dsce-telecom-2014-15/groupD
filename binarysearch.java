@@ -5,7 +5,7 @@ package myproject;
  * @author Aashika
  *
  */
-
+// Class name should start with capital letter. BinarySearch is the recommended name as per the convention
 public class binarysearch {
 
 	public static void main(String[] args) {

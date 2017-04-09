@@ -13,6 +13,7 @@ public class maxminfinder {
 		for(;i<n;i++)
 			a[i]=Integer.parseInt(br.readLine());
 		int b=a[0],c=a[0];
+		// Define 2 methods getMin getMax to accept array as param and return min, max value respectively
 		for(i=0;i<n;i++)
 		{if(b>a[i])b=a[i];
 		 if(c<a[i])c=a[i];
